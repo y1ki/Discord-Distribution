@@ -1,0 +1,6 @@
+PyQt6
+av
+numpy
+aiohttp
+aiofiles
+aiohttp-socks
